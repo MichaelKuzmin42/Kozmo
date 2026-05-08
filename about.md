@@ -1,6 +1,6 @@
 ---
 layout: page
-title: עליי
+title: About
 permalink: /about/
 ---
 
