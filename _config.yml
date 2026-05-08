@@ -1,9 +1,7 @@
 title: Michael Kuzmin
 theme: jekyll-theme-minima
 
-# הגדרת הדפים שיופיעו בתפריט העליון
 header_pages:
   - index.md
   - about.md
   - blog.md
-
